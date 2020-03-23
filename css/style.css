@@ -74,6 +74,11 @@ body a:hover{
     border-width: 10px 10px 0 10px;
     border-color: #F3E000 transparent transparent transparent;
 }
+
+html body div#projects.portfolio div.container div.sap_tabs div#horizontalTab div.resp-tabs-container div.tab-1.resp-tab-content.resp-tab-content-active div.tab_img ul li{
+    font-size: 18px;
+}
+
 .header-right h6 {
     font-size: 1em;
     color: #C7C7C7;
